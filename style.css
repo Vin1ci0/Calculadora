@@ -26,4 +26,21 @@
     background-color: rgb(31, 31, 31);
     color: white;
     border: none;
+    margin: 3px;
+}
+.botao:hover {
+    background-color: blueviolet;
+}
+h1#marca {
+    padding-top: 25px;
+}
+p#Resultado {
+    background-color: white;
+    width: 213px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    text-align: right;
+    padding: 5px;
+    color: blueviolet
 }
